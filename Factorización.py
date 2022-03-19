@@ -1,6 +1,6 @@
 # Función que devuelve la factorización de un número natural mediante una lista que contiene las siguientes dos listas :
- - lista de factores primos
- - lista de exponentes
+# lista de factores primos
+# lista de exponentes
 
 def factorizar(n):
 
